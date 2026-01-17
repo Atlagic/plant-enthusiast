@@ -1,2 +1,2 @@
 # Getting Started
-Small Plant Enthusiast project for practising Tailwind CSS
+Small project 'Plant Enthusiast' used for practising Tailwind CSS

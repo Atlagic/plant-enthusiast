@@ -1,14 +1,18 @@
 tailwind.config = {
-    theme : {
-        extend : {
-            colors : {
+    theme: {
+        extend: {
+            colors: {
                 pale_orange: '#ffd9a6',
                 light_orange: '#fbb03b',
                 orange: '#f7931e'
             },
-            fontFamily : {
+            fontFamily: {
                 sans: ['Josefin Sans', 'sans-serif'],
                 title: ['Playfair Display SC', 'serif']
+            },
+            backgroundImage: {
+                mobile: "url('img/bg-mobile.png')",
+                desktop: "url('img/bg-desktop.png')"
             }
         }
     }
